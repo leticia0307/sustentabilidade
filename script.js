@@ -89,64 +89,64 @@ function toggleTech(button) {
 // Dados do quiz
 const quizData = [
     {
-        pergunta: "O que é agricultura de precisão?",
+        pergunta: "O que é agro sustentável?",
         opcoes: [
-            "Aplicação localizada de insumos usando GPS",
-            "Plantio manual muito cuidadoso",
-            "Uso de muitos agroquímicos",
-            "Cultivo apenas em clima frio"
+            "Produção agrícola que preserva os recursos naturais",
+            "Produção agrícola sem colheita",
+            "Produção apenas em cidades",
+            "Produção sem uso de água"
         ],
         resposta: 0
     },
     {
-        pergunta: "Qual é o benefício principal dos drones na agricultura?",
+        pergunta: "Qual prática ajuda a conservar o solo?",
         opcoes: [
-            "Substituir completamente os agricultores",
-            "Monitorar culturas e detectar pragas com câmeras especiais",
-            "Aumentar o preço dos produtos",
-            "Reduzir a qualidade das colheitas"
+            "Queimadas frequentes",
+            "Rotação de culturas",
+            "Desmatamento",
+            "Uso excessivo de máquinas"
         ],
         resposta: 1
     },
     {
-        pergunta: "Como a IA ajuda no agronegócio?",
+        pergunta: " Por que economizar água na agricultura é importante?",
         opcoes: [
-            "Apenas para decoração das fazendas",
-            "Análise preditiva de dados para otimizar plantio e irrigação",
-            "Para substituir os animais da fazenda",
-            "Não tem utilidade no campo"
+            "Para aumentar o desperdício",
+            "Porque a água é um recurso limitado",
+            "Para reduzir a produção de alimentos",
+            "Porque as plantas não precisam de água"
         ],
         resposta: 1
     },
     {
-        pergunta: "Qual é o impacto dos sensores IoT na água?",
+        pergunta: "O que o plantio de árvores pode trazer para uma propriedade rural?",
         opcoes: [
-            "Aumentam o consumo de água",
-            "Permitem irrigação precisa, economizando até 40% de água",
-            "Poluem a água do solo",
-            "Não têm relação com água"
+            "Mais erosão",
+            "Menos biodiversidade",
+            "Sombra, proteção do solo e equilíbrio ambiental",
+            "Redução da fertilidade do solo"
         ],
-        resposta: 1
+        resposta: 2
     },
     {
-        pergunta: "Por que a rotação de culturas é importante?",
+        pergunta: "Qual é uma fonte de energia sustentável para o campo?",
         opcoes: [
-            "Para confundir os insetos",
-            "Mantém a fertilidade do solo e reduz pragas naturalmente",
-            "Apenas para decoração visual",
-            "Não tem importância"
+            "Carvão mineral",
+            "Diesel",
+            "Energia solar",
+            "Queima de lixo"
         ],
-        resposta: 1
+        resposta: 2
     },
     {
-        pergunta: "Qual é o objetivo do Agrinho?",
+        pergunta: "O que significa reduzir o uso de agrotóxicos?",
         opcoes: [
-            "Incentivar o ensino de tecnologia e programação com foco em sustentabilidade agrícola",
-            "Vender produtos agrícolas",
-            "Apenas para diversão",
-            "Ensinar apenas matemática"
+            "Aumentar a contaminação ambiental",
+            "Proteger a saúde das pessoas e do meio ambiente",
+            "Acabar com toda a produção agrícola",
+            "Produzir menos alimentos"
         ],
-        resposta: 0
+        resposta: 1
     }
 ];
 
